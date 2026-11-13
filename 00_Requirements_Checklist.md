@@ -4,7 +4,7 @@ Source of truth: **`00_Course_Materials/Entrepreneurship_Group_Final_Project_Bri
 
 Team (all Bachelor of Programming, Year 4): Hasan Marhoon (leader, 202303596), Sayed Ali Almusawi (202304831), Hussain Ali Kadhem (202304829). Section 01, Stream 01.
 
-## 1. Marks (30 total)
+## 1 Marks (30 total)
 
 | # | Component | Type | Marks | Main course files |
 |---|---|---|---|---|
